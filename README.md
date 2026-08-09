@@ -1,22 +1,60 @@
-<h1 align="center">Hi 👋, I'm Mohammad Asad Ibna Iqbal</h1>
-<h3 align="center">A passionate developer building innovative solutions</h3>
+<!-- MINIMALISTIC GITHUB PROFILE DESIGN FOR ASAD IQBAL -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=AI%2FML+Engineer;Embedded+Systems+Developer;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<h2 align="center">⚒️ Languages & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,tensorflow,linux,git" alt="Skills" />
-</p>
-
-<h2 align="center">📊 GitHub Metrics</h2>
+<!-- SECTION 1: HEADER & BANNER (Synthesis Part 1) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASAD001-P&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAD001-P&layout=compact&theme=transparent&hide_border=true&title_color=3776AB" height="150" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Asad%20Iqbal&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
+</div>
+
+<div align="center">
+  <h1>Hi 👋, I'm Asad</h1>
+  <h3>AI/ML Engineer & Embedded Systems Developer</h3>
+  
+  <p>
+    Focused on bridging the gap between intelligent software and robust hardware.
+  </p>
+</div>
+
+<br>
+
+<!-- SECTION 2: CORE SKILLS BADGES (Synthesis Part 2) -->
+<!-- Limited to 6-8 compact skill icons for minimalism -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,java,flask,espressif,git,linux" alt="Core Skill Icons" />
+</div>
+
+<br>
+<hr>
+<br>
+
+<!-- SECTION 3: FEATURED PROJECTS (Synthesis Part 3) -->
+<!-- Using HTML tables for clean, structured placement -->
+## 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_BDSL_REPO_NAME">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_BDSL_REPO_NAME&theme=radical&show_owner=true" alt="BdSL-GraphFormer Project" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_CAMPUSWIZ_REPO_NAME">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_CAMPUSWIZ_REPO_NAME&theme=radical&show_owner=true" alt="CampusWiz AI Project" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+<hr>
+<br>
+
+<!-- SECTION 4: IMPACT METRICS & STATS (Synthesis Part 4) -->
+<!-- Using dynamic stats cards with consistent theming -->
+## 📊 Key Metrics & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Overall GitHub Stats" height="195px" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages Stats" height="195px" />
 </div>
