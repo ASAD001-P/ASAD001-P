@@ -2,7 +2,7 @@
 
 <!-- SECTION 1: HEADER & BANNER (Synthesis Part 1) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Asad%20Iqbal&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Asad%-Prottoy&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
 </div>
 
 <div align="center">
