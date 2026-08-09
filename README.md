@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Asad Ibna Iqbal</h1>
 <h3 align="center">A passionate developer building innovative solutions</h3>
 
 <p align="center">
@@ -17,6 +17,6 @@
 
 <h2 align="center">📊 GitHub Metrics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=3776AB" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASAD001-P&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAD001-P&layout=compact&theme=transparent&hide_border=true&title_color=3776AB" height="150" alt="Top Languages" />
 </div>
