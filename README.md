@@ -46,7 +46,7 @@ $ cat developer.json
 
 ---
 
-### 🚀 About Me
+### 👤 About Me
 
 - 🎓 **Graduate**: Completed B.Sc. in Computer Science & Engineering at Green University of Bangladesh.
 - 🤖 **AI & ML**: Deep interest in LLMs, Retrieval-Augmented Generation (RAG), Multi-Agent orchestration, and Spatio-Temporal Graph Neural Networks.
