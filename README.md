@@ -111,14 +111,9 @@ $ cat developer.json
 
 ---
 
-### 🏆 GitHub Trophies & Analytics
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
-
-  <!-- GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ASAD001-P&theme=onedark&no-bg=true&no-frame=true&column=6" width="100%" alt="GitHub Trophies" />
-
-  <br/><br/>
 
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASAD001-P&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
