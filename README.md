@@ -13,12 +13,12 @@
     <i>Passionate about bridging intelligent software with physical systems.</i>
   </p>
 
-  <!-- Social Contact Badges -->
+  <!-- Social Contact Badges (Web Gmail Direct Link) -->
   <p align="center">
     <a href="https://linkedin.com/in/mohammad-asad-ibna-iqbal-511615366" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:mdasadibnaiqbal@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdasadibnaiqbal@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://github.com/ASAD001-P" target="_blank">
@@ -121,28 +121,33 @@ $ cat developer.json
         <img src="https://github-readme-stats.vercel.app/api?username=ASAD001-P&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="ASAD001-P's GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAD001-P&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASAD001-P&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASAD001-P&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASAD001-P&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Activity & Snake Animation
 
 <div align="center">
 
-  <!-- Contribution Snake Animation (Auto-updated via GitHub Actions if configured) -->
+  <!-- Immediate Working Contribution Graph -->
+  <img src="https://ghchart.rshah.org/38BDF8/ASAD001-P" alt="ASAD001-P's GitHub Contributions" width="100%" />
+
+  <br/><br/>
+
+  <!-- Snake Animation SVG (Renders automatically once GitHub Action is configured) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASAD001-P/ASAD001-P/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASAD001-P/ASAD001-P/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ASAD001-P/ASAD001-P/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/ASAD001-P/ASAD001-P/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 
 </div>
