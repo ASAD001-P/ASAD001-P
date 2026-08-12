@@ -5,7 +5,7 @@ on:
     # Runs automatically at midnight every day
     - cron: "0 0 * * *"
   
-  # Allows manual execution from the Actions tab
+  #  Allows manual execution from the Actions tab
   workflow_dispatch:
 
 jobs:
