@@ -9,7 +9,7 @@
   </a>
 
   <p align="center">
-    <b>Aspiring AI & ML Engineer | CSE Graduate | Embedded Systems Developer</b><br>
+    <b>AI & ML Engineer | CSE Graduate | Embedded Systems Developer</b><br>
     <i>Passionate about bridging intelligent software with physical systems.</i>
   </p>
 
@@ -39,8 +39,8 @@ $ cat developer.json
   "location": "Dhaka, Bangladesh 🇧🇩",
   "degree": "B.Sc. in Computer Science & Engineering",
   "alma_mater": "Green University of Bangladesh",
-  "core_focus": ["Agentic AI Systems", "RAG Architecture", "Graph Neural Networks", "Embedded Hardware"],
-  "hobbies": ["Hardware Tinkering", "ESP32 Pentesting Firmware", "Robotics", "Open Source"]
+  "core_focus": ["Agentic AI Systems", "ML Models", "Embedded Hardware"],
+  "hobbies": ["Hardware Tinkering", "Robotics", "Real-world problem solving"]
 }
 ```
 
@@ -49,10 +49,10 @@ $ cat developer.json
 ### 👤 About Me
 
 - 🎓 **Graduate**: Completed B.Sc. in Computer Science & Engineering at Green University of Bangladesh.
-- 🤖 **AI & ML**: Deep interest in LLMs, Retrieval-Augmented Generation (RAG), Multi-Agent orchestration, and Spatio-Temporal Graph Neural Networks.
-- 🔌 **Embedded & IoT**: Hands-on experience developing microcontroller systems, non-blocking motion logic for robotics, and hardware-software integration (ESP32, Arduino).
-- 🛠️ **Industry Experience**: Former IoT & Embedded Systems Intern @ Robo Tech Valley.
-- 💡 **Mission**: Building accessible, human-centered intelligent products that solve real-world problems.
+- 🤖 **AI & ML**: Passionate about machine learning, LLM, computer vision, and practical AI applications.
+- 🔌 **Embedded & IoT**: Experienced in developing microcontroller systems, non-blocking motion logic for robotics, and seamless hardware-software integration (ESP32, Arduino).
+- 🛠️ **Industry Experience**: Former Robotics & Embedded Systems Intern @ Robo Tech Valley.
+- 💡 **Mission**: Building accessible, human-centered intelligent products that solve complex, real-world problems.
 
 ---
 
@@ -63,15 +63,15 @@ $ cat developer.json
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | `Python` `C` `C++` `Java` `Assembly` `SQL` `Bash` |
-| **AI / ML / Data** | `TensorFlow` `PyTorch` `OpenCV` `Mistral LLM` `RAG` `GraphFormer` `Tesseract OCR` `Pandas` |
-| **Embedded & Hardware** | `Arduino` `ESP32` `Digital Logic` `Sensors & Actuators` `Circuit Prototyping` `Motor Drivers` |
-| **Backend & Web** | `Flask` `FastAPI` `Java Sockets` `REST APIs` `MySQL` |
+| **AI / ML / Data** | `MediaPipe` `LLM` `RAG` `PyTorch` `GCN` `Tesseract OCR` `Pandas` |
+| **Embedded & Hardware** | `Arduino` `ESP32` `Digital Logic` `Sensors & Actuators` `Circuit Prototyping` |
+| **Backend & Web** | `FastAPI` `Java Sockets` `PostgreSQL` `MySQL` |
 | **Tools & OS** | `Git` `GitHub` `VS Code` `Linux` `Google Colab` `LaTeX` |
 
 <br/>
 
 <!-- Animated Tech Stack Icons -->
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,opencv,flask,fastapi,arduino,linux,git,github,vscode,mysql,bash&perline=8" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,fastapi,arduino,linux,git,github,vscode,mysql,bash&perline=8" alt="Tech Stack" />
 
 </div>
 
