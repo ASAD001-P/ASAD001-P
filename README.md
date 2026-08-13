@@ -72,7 +72,7 @@ $ cat developer.json
 <br/>
 
 <!-- Animated Tech Stack Icons -->
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,arduino,fastapi,mysql,postgres,bash,linux,git,github,vscode,latex,autocad,n8n&perline=10" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,arduino,fastapi,mysql,postgres,bash,linux,git,github,vscode,latex,autocad&perline=9" alt="Tech Stack" />
 </div>
 
 ---
