@@ -30,7 +30,7 @@
 
 ---
 
-### ⚡ Quick Terminal Glance
+###  Quick Terminal Glance
 
 ```bash
 $ cat developer.json
@@ -46,13 +46,13 @@ $ cat developer.json
 
 ---
 
-### 👤 About Me
+###  About Me
 
-- 🎓 **Graduate**: Completed B.Sc. in Computer Science & Engineering at Green University of Bangladesh.
-- 🤖 **AI & ML**: Passionate about machine learning, LLM, computer vision, and practical AI applications.
-- 🔌 **Embedded & IoT**: Experienced in developing microcontroller systems, non-blocking motion logic for robotics, and seamless hardware-software integration (ESP32, Arduino).
-- 🛠️ **Industry Experience**: Former Robotics & Embedded Systems Intern @ Robo Tech Valley — Contributed to the development of an open-source AXON-based humanoid robot.
-- 💡 **Mission**: Building accessible, human-centered intelligent products that solve complex, real-world problems.
+-  **Graduate**: Completed B.Sc. in Computer Science & Engineering at Green University of Bangladesh.
+-  **AI & ML**: Passionate about machine learning, LLM, computer vision, and practical AI applications.
+-  **Embedded & IoT**: Experienced in developing microcontroller systems, non-blocking motion logic for robotics, and seamless hardware-software integration (ESP32, Arduino).
+-  **Industry Experience**: Former Robotics & Embedded Systems Intern @ Robo Tech Valley — Contributed to the development of an open-source AXON-based humanoid robot.
+-  **Mission**: Building accessible, human-centered intelligent products that solve complex, real-world problems.
 
 ---
 
@@ -77,10 +77,9 @@ $ cat developer.json
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 <details open>
-<summary><b>🌟 Highlighted Work</b></summary>
 
 <br/>
 
@@ -116,7 +115,7 @@ $ cat developer.json
 
 ---
 
-### 📊 GitHub Analytics & Activity
+###  GitHub Analytics & Activity
 
 <div align="center">
 
@@ -132,7 +131,7 @@ $ cat developer.json
 
 ---
 
-### 🐍 Contribution Snake Animation
+###  Contribution Snake Animation
 
 <div align="center">
 
