@@ -66,13 +66,14 @@ $ cat developer.json
 | **AI / ML / Data** | `MediaPipe` `LLM` `RAG` `PyTorch` `GCN` `Tesseract OCR` `Pandas` |
 | **Embedded & Hardware** | `Arduino` `ESP32` `Digital Logic` `Sensors & Actuators` `Circuit Prototyping` |
 | **Backend & Web** | `FastAPI` `Java Sockets` `PostgreSQL` `MySQL` |
+| **Automation & Workflows** | `n8n` `Make.com` |
 | **Tools & OS** | `Git` `GitHub` `VS Code` `Linux` `Google Colab` `LaTeX` |
 
 <br/>
 
 <!-- Animated Tech Stack Icons -->
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,arduino,fastapi,mysql,bash,git,github,vscode,latex&perline=6" alt="Tech Stack" />
-
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,arduino,fastapi,mysql,postgres,bash,linux,git,github,vscode,latex,autocad&perline=9" alt="Tech Stack" />
 </div>
 
 ---
