@@ -18,8 +18,8 @@
     <a href="https://linkedin.com/in/mohammad-asad-ibna-iqbal-511615366" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdasadibnaiqbal@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <a href="mailto:mdasadibnaiqbal@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://github.com/ASAD001-P" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -72,7 +72,7 @@ $ cat developer.json
 <br/>
 
 <!-- Animated Tech Stack Icons -->
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,arduino,fastapi,mysql,postgres,bash,linux,git,github,vscode,latex,autocad&perline=9" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js,arduino,fastapi,mysql,postgres,bash,linux,git,github,vscode,latex,autocad,n8n&perline=10" alt="Tech Stack" />
 </div>
 
 ---
