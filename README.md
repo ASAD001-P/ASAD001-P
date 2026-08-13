@@ -51,7 +51,7 @@ $ cat developer.json
 - 🎓 **Graduate**: Completed B.Sc. in Computer Science & Engineering at Green University of Bangladesh.
 - 🤖 **AI & ML**: Passionate about machine learning, LLM, computer vision, and practical AI applications.
 - 🔌 **Embedded & IoT**: Experienced in developing microcontroller systems, non-blocking motion logic for robotics, and seamless hardware-software integration (ESP32, Arduino).
-- 🛠️ **Industry Experience**: Former Robotics & Embedded Systems Intern @ Robo Tech Valley.
+- 🛠️ **Industry Experience**: Former Robotics & Embedded Systems Intern @ Robo Tech Valley — Contributed to the development of an open-source AXON-based humanoid robot.
 - 💡 **Mission**: Building accessible, human-centered intelligent products that solve complex, real-world problems.
 
 ---
@@ -84,26 +84,31 @@ $ cat developer.json
 
 <br/>
 
-> 🧠 **[BdSL-GraphFormer](https://github.com/ASAD001-P)**
+>  **[BdSL-GraphFormer](https://github.com/ASAD001-P)**
 > *Hybrid Spatio-Temporal Graph & Transformer Ensemble for Complex Bangla Sign Language Recognition.*
-> - Combined Spatial-Temporal Graph Convolutional Networks (ST-GCN) with Transformer models for continuous sign language recognition.
-> - Hand gesture tracking and sequence translation into natural language sentences.
+> - Combined Spatial-Temporal Graph Convolutional Networks with Transformer models for complex sign language recognition.
+> - Hand gesture tracking and sequence translation.
 
-> 🤖 **[CampusWiz — AI Notice Chatbot](https://github.com/ASAD001-P/Ai_Chatbot)**
+>  **[AXON-Based Humanoid Robot](#)**
+> *Internship Project*
+> - Contributed to the hardware assembly and firmware development of an open-source AXON-based humanoid robot.
+> - Implemented embedded control logic for articulation, non-blocking motion, and physical system synchronization.
+
+>  **[CampusWiz — AI Notice Chatbot](https://github.com/ASAD001-P/Ai_Chatbot)**
 > *Retrieval-Augmented Generation (RAG) system for academic notices.*
 > - Built using **Python**, **Flask**, **Mistral LLM**, and **Tesseract OCR**.
-> - Digitizes university notices with custom date and temporal logic parsers ("tomorrow's class", "next Saturday").
+> - Digitizes university notices with custom date and temporal logic parsers.
 
-> 🎮 **[LAN Play-Station](https://github.com/ASAD001-P/LAN-Play-Station)**
+>  **[LAN Play-Station](https://github.com/ASAD001-P/LAN-Play-Station)**
 > *Secure Client-Server Multiplayer Game Lobby in Java.*
 > - Implemented Java Socket networking with multi-threaded servers for concurrent clients.
 > - Integrated Hamming Code data-link error correction and Caesar cipher message encryption.
 
-> 🗺️ **[Campus Navigation System](https://github.com/ASAD001-P/Campus-Navigation-System)**
+>  **[Campus Navigation System](https://github.com/ASAD001-P/Campus-Navigation-System)**
 > *Graph-based shortest path calculation application.*
 > - Built with Java Swing GUI and Dijkstra's algorithm to calculate optimal routes across campus locations.
 
-> 🤖 **[Arduino POV (Persistence of Vision) Display](https://github.com/ASAD001-P)**
+>  **[Arduino POV (Persistence of Vision) Display](https://github.com/ASAD001-P)**
 > *Hardware-software synchronized mid-air display.*
 > - Designed LED timing circuits and non-blocking C/C++ micro-controller firmware for floating mid-air text rendering.
 
