@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%90%A7;AI+%26+Machine+Learning+Engineer;Embedded+Systems+%26+Robotics+Enthusiast;Building+Intelligent+%26+Agentic+Systems;CSE+Graduate+%40+Green+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%90%A7;AI+%26+Machine+Learning+Engineer;Computer+Vision+%26+Intelligent+Systems;Embedded+Systems+%26+Robotics+Enthusiast;Building+Practical+AI+Solutions;CSE+Graduate+%40+Green+University" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -39,7 +39,7 @@ $ cat developer.json
   "location": "Dhaka, Bangladesh 🇧🇩",
   "degree": "B.Sc. in Computer Science & Engineering",
   "alma_mater": "Green University of Bangladesh",
-  "core_focus": ["Agentic AI Systems", "ML Models", "Embedded Hardware"],
+  "core_focus": ["AI & Machine Learning", "Computer Vision", "Embedded Systems"],
   "hobbies": ["Hardware Tinkering", "Robotics", "Real-world problem solving"]
 }
 ```
@@ -49,7 +49,7 @@ $ cat developer.json
 ###  About Me
 
 -  **Graduate**: Completed B.Sc. in Computer Science & Engineering at Green University of Bangladesh.
--  **AI & ML**: Passionate about machine learning, LLM, computer vision, and practical AI applications.
+-  **AI & ML**: Passionate about machine learning, LLMs, computer vision, and practical AI applications.
 -  **Embedded & IoT**: Experienced in developing microcontroller systems, non-blocking motion logic for robotics, and seamless hardware-software integration (ESP32, Arduino).
 -  **Industry Experience**: Former Robotics & Embedded Systems Intern @ Robo Tech Valley — Contributed to the development of an open-source AXON-based humanoid robot.
 -  **Mission**: Building accessible, human-centered intelligent products that solve complex, real-world problems.
@@ -63,7 +63,7 @@ $ cat developer.json
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | `Python` `C` `C++` `Java` `Assembly` `SQL` `Bash` |
-| **AI / ML / Data** | `MediaPipe` `LLM` `RAG` `PyTorch` `GCN` `Tesseract OCR` `Pandas` |
+| **AI / ML / Data** | `MediaPipe` `LLM` `RAG` `PyTorch` `GCN` `Transformers` `Tesseract OCR` `Pandas` |
 | **Embedded & Hardware** | `Arduino` `ESP32` `Digital Logic` `Sensors & Actuators` `Circuit Prototyping` |
 | **Backend & Web** | `FastAPI` `Java Sockets` `PostgreSQL` `MySQL` |
 | **Automation & Workflows** | `n8n` `Make.com` |
@@ -77,39 +77,47 @@ $ cat developer.json
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
 <details open>
 
 <br/>
 
->  **[BdSL-GraphFormer](https://github.com/ASAD001-P)**
-> *Hybrid Spatio-Temporal Graph & Transformer Ensemble for Complex Bangla Sign Language Recognition.*
-> - Combined Spatial-Temporal Graph Convolutional Networks with Transformer models for complex sign language recognition.
-> - Hand gesture tracking and sequence translation.
+> **BdSL-GraphFormer**
+> *Hybrid Spatio-Temporal Graph & Transformer Ensemble for Bangla Sign Language Recognition.*
+>
+> - Combines graph convolutional networks and Transformer models for sign language recognition.
+> - Uses spatio-temporal modeling of skeletal keypoint sequences.
 
->  **[AXON-Based Humanoid Robot](#)**
-> *Internship Project*
-> - Contributed to the hardware assembly and firmware development of an open-source AXON-based humanoid robot.
-> - Implemented embedded control logic for articulation, non-blocking motion, and physical system synchronization.
+> **[CampusWiz](https://github.com/ASAD001-P/CampusWiz)**
+> *RAG-powered AI chatbot for university notices.*
+>
+> - Built with Python and a Mistral LLM for querying university notices.
+> - Uses custom temporal logic to handle time-sensitive queries.
 
->  **[CampusWiz — AI Notice Chatbot](https://github.com/ASAD001-P/Ai_Chatbot)**
-> *Retrieval-Augmented Generation (RAG) system for academic notices.*
-> - Built using **Python**, **Flask**, **Mistral LLM**, and **Tesseract OCR**.
-> - Digitizes university notices with custom date and temporal logic parsers.
+> **[Profit-Driven Churn Prediction System](https://github.com/ASAD001-P/Profit-Driven-Churn-Prediction-System)**
+> *Machine learning system for profit-oriented customer churn prediction.*
+>
+> - Uses a quad-model ensemble for churn prediction.
+> - Combines SHAP analysis and Customer Lifetime Value to identify high-value churn risks.
 
->  **[LAN Play-Station](https://github.com/ASAD001-P/LAN-Play-Station)**
-> *Secure Client-Server Multiplayer Game Lobby in Java.*
-> - Implemented Java Socket networking with multi-threaded servers for concurrent clients.
-> - Integrated Hamming Code data-link error correction and Caesar cipher message encryption.
+> **[LAN Play-Station](https://github.com/ASAD001-P/LAN-Play-Station)**
+> *Java-based LAN multiplayer game lobby using client-server networking.*
+>
+> - Implements socket programming and multithreaded client handling.
+> - Includes Hamming Code error correction and Caesar cipher-based message encryption.
 
->  **[Campus Navigation System](https://github.com/ASAD001-P/Campus-Navigation-System)**
-> *Graph-based shortest path calculation application.*
-> - Built with Java Swing GUI and Dijkstra's algorithm to calculate optimal routes across campus locations.
+> **[Campus Navigation System](https://github.com/ASAD001-P/Campus-Navigation-System)**
+> *Graph-based campus navigation system.*
+>
+> - Uses Java Swing and Dijkstra's algorithm for shortest-path calculation.
+> - Supports walking, vehicle, and wheelchair route options.
 
->  **[Arduino POV (Persistence of Vision) Display](https://github.com/ASAD001-P)**
-> *Hardware-software synchronized mid-air display.*
-> - Designed LED timing circuits and non-blocking C/C++ micro-controller firmware for floating mid-air text rendering.
+> **AXON-Based Humanoid Robot**
+> *Embedded systems and robotics project.*
+>
+> - Contributed to hardware assembly and firmware development for an open-source AXON-based humanoid robot.
+> - Worked on embedded control logic and hardware-software integration.
 
 </details>
 
