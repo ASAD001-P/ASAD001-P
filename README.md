@@ -30,7 +30,7 @@
 
 ---
 
-###  Quick Terminal Glance
+###  Quick Glance
 
 ```bash
 $ cat developer.json
@@ -56,7 +56,7 @@ $ cat developer.json
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 <div align="center">
 
