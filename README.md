@@ -105,7 +105,7 @@ $ cat developer.json
 > *Java-based LAN multiplayer game lobby using client-server networking.*
 >
 > - Implements socket programming and multithreaded client handling.
-> - Includes Hamming Code error correction and Caesar cipher-based message encryption.
+> - Supports concurrent client connections and LAN-based multiplayer.
 
 > **[Campus Navigation System](https://github.com/ASAD001-P/Campus-Navigation-System)**
 > *Graph-based campus navigation system.*
