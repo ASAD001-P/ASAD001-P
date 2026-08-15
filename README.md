@@ -101,17 +101,17 @@ $ cat developer.json
 > - Uses a quad-model ensemble for churn prediction.
 > - Combines SHAP analysis and Customer Lifetime Value to identify high-value churn risks.
 
+> **[AsadPy](https://github.com/ASAD001-P/asadpy)**
+> *Asynchronous FastAPI backend with PostgreSQL, Redis, and background task processing.*
+>
+> - Uses FastAPI, SQLModel, PostgreSQL, Redis, and ARQ for API and asynchronous processing.
+> - Includes JWT authentication, rate limiting, monitoring, Docker, and CI/CD.
+
 > **[LAN Play-Station](https://github.com/ASAD001-P/LAN-Play-Station)**
 > *Java-based LAN multiplayer game lobby using client-server networking.*
 >
 > - Implements socket programming and multithreaded client handling.
 > - Supports concurrent client connections and LAN-based multiplayer.
-
-> **[Campus Navigation System](https://github.com/ASAD001-P/Campus-Navigation-System)**
-> *Graph-based campus navigation system.*
->
-> - Uses Java Swing and Dijkstra's algorithm for shortest-path calculation.
-> - Supports walking, vehicle, and wheelchair route options.
 
 > **AXON-Based Humanoid Robot**
 > *Embedded systems and robotics project.*
