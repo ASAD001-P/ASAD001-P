@@ -142,9 +142,9 @@ $ cat developer.json
 
 <div align="center">
 
-  <i>"Bridging the physical & digital worlds with Intelligent Systems."</i>
+  <br/>
 
-  <br/><br/>
+  <i>"Bridging the physical & digital worlds with Intelligent Systems."</i>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,30,15,23,42&height=100&section=footer" width="100%" />
 
