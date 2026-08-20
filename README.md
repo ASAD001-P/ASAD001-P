@@ -142,7 +142,7 @@ $ cat developer.json
 
 <div align="center">
 
-  <sub><i>"Bridging the physical & digital worlds with Intelligent Systems."</i></sub>
+  <i>"Bridging the physical & digital worlds with Intelligent Systems."</i>
 
   <br/><br/>
 
